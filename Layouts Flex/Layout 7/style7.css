@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(67, 67, 153);
+}
+
+#A{
+    background-color: yellow;
+    width: 250px;
+    height: 250px;
+    margin-left: 90px;
+    margin-top: 50px; 
+} 

@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(67, 67, 153);
+}
+
+#A{
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    margin-left: 90px;
+    margin-top: 50px; 
+}
+
+#B{
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    margin-left: 130px;
+    margin-top: 50px; 
+}
+
+#C{
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    margin-left: 130px;
+    margin-top: 50px; 
+}
+
+#ABC{
+    display: flex;
+}
+
+#D {
+    background-color: yellow;
+    width: 1160px;
+    height: 300px;
+    margin-left: 90px;
+    margin-top: 50px; 
+}
+
+#E{ 
+    background-color: yellow; 
+    width: 730px;
+    height: 300px;
+    margin-left: 90px;
+    margin-top: 50px; 
+}
+
+#F{
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    margin-left: 130px;
+    margin-top: 50px; 
+}
+
+#EF {
+    display: flex;
+}
